@@ -3,6 +3,7 @@
 ## Wordpress-Plugins
 
 ### Elementor
+### All-in-One WP Migration
 ### WPS Hide Login
 ### Companion Auto Update
 ### Essential Addons for Elementor
