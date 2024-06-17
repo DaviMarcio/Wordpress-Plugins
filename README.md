@@ -12,7 +12,7 @@
 ### Ninja Forms
 ### WP Cerber : https://wpcerber.com/protect-wordpress-pt/installation/
 
-##Plugins for shop
+## Plugins for shop
 
 ### Correios for WooCommerce
 ### PagSeguro for WooCommerce
